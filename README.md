@@ -1,1 +1,1 @@
-A simple game lobby craeted by using react
+A simple game lobby craeted by react
